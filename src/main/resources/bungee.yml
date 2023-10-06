@@ -1,0 +1,4 @@
+name: CPUProfiles
+version: '${project.version}'
+main: crackpixel.org.cpuprofiles.CPUProfiles
+description: Profile management for Crackpixel

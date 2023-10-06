@@ -1,0 +1,5 @@
+players:
+  defaultcpuprofile:
+    karma: 0
+    gold: 0
+    achievementpoints: 0
